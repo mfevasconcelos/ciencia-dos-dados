@@ -1,0 +1,13 @@
+cliente_id,data,nome,cidade,cidade_cobranca,email,status,salario,valor,preco,nota,saldo
+101,2025-01-01,Ana,SP,SP,ana@example.com,ativo,4500,120,49.9,8.5,
+101,2025-01-02,Ana,,SP,,pendente,,130,,7.2,1000
+101,2025-01-03,Ana,SP,,NA,ativo,4700,,51.2,,-50
+101,2025-01-04,Ana,SP,SP,,inativo,4800,140,50.3,9.0,
+101,2025-01-05,Ana,,SP,ana @example.com,ativo,,150,,6.1,
+101,,Ana,SP,SP,ana@example.com,pendente,5000,160,52.0,,500
+202,2025-01-01,Bruno,RJ,RJ,bruno@example.com,ativo,5200,80,29.5,7.2,0
+202,2025-01-02,Bruno,RJ,,bruno@example.com,pendente,5300,90,30.1,NA,200
+202,2025-01-03,Bruno,RJ,RJ,,inativo,,100,,8.5,
+202,2025-01-04,Bruno,RJ,RJ,NA,ativo,5100,,31.0,5.0,300
+202,2025-01-05,Bruno,RJ,RJ,bruno@example.com,pendente,5400,110,32.5,,
+202,2025-01-06,Bruno,RJ,,,ativo,,,NA,6.0,400

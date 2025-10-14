@@ -1,0 +1,16 @@
+categoria,valor,peso,cliente,pedido_total,produto,nota,turma,data_pedido,regiao
+C,354.74,4,Iris,466.29,P4,6.5,T2,2025-01-23,Nordeste
+A,464.85,3,Diego,1113.47,P5,5.7,T3,2025-01-14,Nordeste
+B,323.2,1,Iris,818.65,P7,6.8,T3,2025-01-30,Sul
+C,41.03,5,Elaine,67.09,P3,6.4,T3,2025-01-23,Sul
+A,110.95,2,Elaine,146.48,P1,8.0,T3,2025-01-07,Sudeste
+B,169.94,5,Hugo,461.99,P6,7.3,T1,2025-01-12,Norte
+B,23.53,3,Bruno,71.03,P7,6.5,T2,2025-01-22,Sul
+B,74.97,5,Bruno,194.69,P1,6.5,T2,2025-01-17,Nordeste
+B,165.9,5,Felipe,201.35,P1,6.7,T2,2025-01-07,Nordeste
+C,155.06,1,Ana,278.37,P7,7.2,T1,2025-01-17,Sudeste
+B,100.15,4,Iris,118.55,P4,7.7,T2,2025-01-22,Nordeste
+A,354.23,2,Bruno,708.07,P8,6.9,T3,2025-01-10,Nordeste
+A,481.71,3,Bruno,1352.28,P3,8.9,T3,2025-01-08,Sul
+C,150.68,1,Elaine,201.87,P7,4.4,T1,2025-01-14,Centro-Oeste
+A,431.17,4,Bruno,1098.15,P5,7.0,T3,2025-01-13,Nordeste
